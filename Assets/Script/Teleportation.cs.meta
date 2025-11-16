@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b8dd2aca4c79e414d820892f84f32e8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NextPortal: {instanceID: 0}
+  - World: {instanceID: 0}
+  - source: {instanceID: 0}
+  - TeleportationSound: {fileID: 8300000, guid: 8242076fa93d68349b31f2b9a709d615, type: 3}
+  - DeadSound: {fileID: 8300000, guid: b1805c9ae59f32d4f8bb822d9bec4141, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
